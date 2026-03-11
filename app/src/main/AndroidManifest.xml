@@ -20,6 +20,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".controller.AddRoom"
+            android:exported="false" />
+        <activity
+            android:name=".controller.EditRoom"
+            android:exported="false" />
     </application>
 
 </manifest>

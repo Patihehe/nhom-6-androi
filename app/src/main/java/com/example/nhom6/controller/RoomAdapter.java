@@ -1,6 +1,6 @@
 package com.example.nhom6.controller;
 
-import `android.graphics.Color;
+import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
